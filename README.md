@@ -1,4 +1,3 @@
-# online_auction
 # Online-Auction-System
 
 This project is developed in Java,MySQL database,Java-Swing.
